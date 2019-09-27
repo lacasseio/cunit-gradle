@@ -27,7 +27,7 @@ model {
         }
         osx {
             operatingSystem "osx"
-            architecture "x86"
+            architecture "x64"
         }
         linux {
             operatingSystem "linux"
